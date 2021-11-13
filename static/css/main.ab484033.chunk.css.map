@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,wBAAyB,CACzB,UACJ,CAEA,KACI,gBACJ,CAEA,QACI,UACJ","file":"main.ab484033.chunk.css","sourcesContent":["body{\r\n    background-color: #27292d;\r\n    color:white;\r\n}\r\n\r\nh1, p {\r\n    font-family: Lato;\r\n}\r\n\r\n.fitImg{\r\n    width: 100%;\r\n}\r\n"]}
